@@ -53,3 +53,8 @@ This protocol is about the fabrication of a chip design (flow or control layer).
 9. Remove from the oven and using a sharp scalpel cut out the two PDMS designs.
 10. Place the two designs on a clean surface preferably with holes on it and then create holes for inlets and outlets using a 0.8 mm hole puncher or a syringe (penetrate all the way through the PDMS device).
 11. Protect PDMS surfaces from dust using scotch tape and store them in a clean Petri dish.
+
+## References
+
+1. [Volpetti et al. (2017). A microfluidic biodisplay. ACS synthetic biology](https://pubs.acs.org/doi/10.1021/acssynbio.7b00088)
+2. [Dénervaud et al (2013). A chemostat array enables the spatio-temporal analysis of the yeast proteome. PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.1308265110)
