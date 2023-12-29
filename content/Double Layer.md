@@ -1,5 +1,5 @@
 ---
-title: PDMS Fabrication - Single Layer
+title: PDMS Fabrication - Double Layer
 draft: false
 tags:
   - su
