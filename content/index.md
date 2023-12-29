@@ -12,3 +12,4 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 - [[Single Layer]] - PDMS chip fabrication
 - [[Double Layer]] - PDMS chip fabrication
 - [[PDMS Design]] - PDMS chip design iterations
+- [[Alignment and Bonding]] - PDMS Alignment and Bonding
