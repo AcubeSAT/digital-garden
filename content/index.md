@@ -2,11 +2,12 @@
 title: Welcome to Quartz
 ---
 
-This is a blank Quartz installation.
+This is a Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 ## Subsystems
 
 ### Science Unit (SU)
 
-- [[Single Layer]] PDMS chip fabrication
+- [[Single Layer]] - PDMS chip fabrication
+- [[PDMS Design]] - PDMS chip design iterations
